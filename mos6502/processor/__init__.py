@@ -1,12 +1,3 @@
-#!/usr/bin/env python
-
-"""MOS6502 MCU."""
-
-__author__ = 'Radoslaw Matusiak'
-__copyright__ = 'Copyright (c) 2018 Radoslaw Matusiak'
-__license__ = 'MIT'
-
-
 from mos6502.helpers import to_signed_byte, to_unsigned_byte  # pylint: disable=import-error
 
 
