@@ -1,12 +1,3 @@
-#!/usr/bin/env python
-
-"""6502 emulator"""
-
-__author__ = 'Radoslaw Matusiak'
-__copyright__ = 'Copyright (c) 2018 Radoslaw Matusiak'
-__license__ = 'MIT'
-
-
 from mos6502.assembly import INSTRUCTIONS  # pylint: disable=import-error
 from mos6502.memory import Memory  # pylint: disable=import-error
 from mos6502.processor import MCU  # pylint: disable=import-error
