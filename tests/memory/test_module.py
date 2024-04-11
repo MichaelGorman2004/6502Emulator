@@ -1,10 +1,3 @@
-#!/usr/bin/env python
-
-__author__ = 'Radoslaw Matusiak'
-__copyright__ = 'Copyright (c) 2018 Radoslaw Matusiak'
-__license__ = 'MIT'
-
-
 import unittest
 import random
 
