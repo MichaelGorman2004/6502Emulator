@@ -42,7 +42,7 @@ This project is a Python-based emulator for the 6502 microprocessor, a popular 8
 
 2. Run the emulator with a 6502 assembly language program
 
-3. Interact with the emulator using the command-line interface or the web-based frontend.
+3. Interact with the emulator using the command-line interface
 
 ## Contributing
 
