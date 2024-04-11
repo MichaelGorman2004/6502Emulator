@@ -1,12 +1,3 @@
-#!/usr/bin/env python
-
-"""Helper methods."""
-
-__author__ = 'Radoslaw Matusiak'
-__copyright__ = 'Copyright (c) 2018 Radoslaw Matusiak'
-__license__ = 'MIT'
-
-
 def to_signed_byte(num):
     """
     Convert given byte number to signed byte number.
