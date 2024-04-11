@@ -1,13 +1,3 @@
-#!/usr/bin/env python
-# pylint: disable=too-many-lines
-
-"""6502 assembly."""
-
-__author__ = 'Radoslaw Matusiak'
-__copyright__ = 'Copyright (c) 2018 Radoslaw Matusiak'
-__license__ = 'MIT'
-
-
 from enum import Enum
 
 from mos6502.helpers import to_signed_byte  # pylint: disable=import-error
