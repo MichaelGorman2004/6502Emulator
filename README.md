@@ -37,15 +37,10 @@ This project is a Python-based emulator for the 6502 microprocessor, a popular 8
 
 1. Navigate to the project directory:
    ```
-   cd 6502-emulator
+   cd Python-6502-Emulator
    ```
 
-2. Run the emulator with a 6502 assembly language program:
-   ```
-   python emulator.py program.asm
-   ```
-
-   Replace `program.asm` with the path to your 6502 assembly language file.
+2. Run the emulator with a 6502 assembly language program
 
 3. Interact with the emulator using the command-line interface or the web-based frontend.
 
@@ -53,9 +48,6 @@ This project is a Python-based emulator for the 6502 microprocessor, a popular 8
 
 Contributions to the project are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request on the GitHub repository.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgements
 
