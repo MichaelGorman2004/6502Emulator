@@ -1,12 +1,3 @@
-#!/usr/bin/env python
-
-"""6502 memory implementation."""
-
-__author__ = 'Radoslaw Matusiak'
-__copyright__ = 'Copyright (c) 2018 Radoslaw Matusiak'
-__license__ = 'MIT'
-
-
 class Memory(object):
     """Class represents MOS 6502 memory."""
 
